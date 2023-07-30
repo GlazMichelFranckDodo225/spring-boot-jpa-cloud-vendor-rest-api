@@ -1,4 +1,4 @@
-package com.dgmf.cloudvendorrestapi;
+package com.dgmf;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,13 +1,13 @@
-package com.dgmf.cloudvendorrestapi;
+package com.dgmf;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CloudVendorRestApiApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CloudVendorRestApiApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
